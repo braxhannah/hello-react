@@ -1,0 +1,5 @@
+.Article {
+  display: flex;
+    border: 10px solid black;
+    background-image:url('./music.jpg');
+}
